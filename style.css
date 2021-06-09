@@ -1,0 +1,22 @@
+body{
+    background-color: coral;
+    color:rgb(221, 40, 167);
+    text-align: center;
+}
+
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color:red;
+    font-size: 18px;
+}
+
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px solid navy;
+}
+
